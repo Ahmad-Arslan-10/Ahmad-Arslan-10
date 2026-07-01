@@ -1,204 +1,124 @@
-# 🎨 GitHub Revamp - Profile README Template
+# Hi there! 👋 I'm Ahmad Arslan
 
-> Create an awesome GitHub profile README in minutes! Clone, customize, and showcase your projects with style.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/gulglitch/github-revamp?style=flat-square)](https://github.com/gulglitch/github-revamp/network)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=[Computer Science Student at COMSATS University Lahore];[Full-Stack & Data Analytics/Engineer Enthusiast];[Building scalable and Full-Stack solutions])](https://git.io/typing-svg)
 
 ---
 
-## 🌟 What is This?
+## About Me
 
-**GitHub Revamp** is a ready-to-use GitHub profile README template that helps you create a professional and eye-catching profile in minutes. No coding required - just clone, replace placeholders, and push!
+I'm a passionate developer with diverse interests spanning Machine Learning, Full-Stack Development, Data Analytics and Cloud Computing
 
-### ✨ Features
-
-- 🎯 **Easy to use** - Just replace placeholders with your info
-- 🐍 **Animated contribution snake** - GitHub Actions included
-- 📊 **GitHub stats cards** - Automatically updated
-- 🎨 **Fully customizable** - Colors, themes, sections
-- 📱 **Responsive design** - Looks great on all devices
-- 🚀 **Zero dependencies** - Pure markdown, no build process
+- Currently learning cloud computing
+- Exploring modern web technologies and building side projects
+- Experimenting with machine learning models and data analytics
+- Open to collaboration and opportunities
+- Interested in: AI/ML, Full-Stack Development, Data Engineering
 
 ---
 
-## 📸 Preview
+## LATEST PROJECTS
 
-Check out the live example: [github.com/gulglitch](https://github.com/gulglitch)
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Create Your Profile Repository
-
-Your repository must be named **exactly** as your GitHub username:
-- Username: `john-doe` → Repository: `john-doe/john-doe`
-
-### 2️⃣ Clone This Template
-
-```bash
-git clone https://github.com/gulglitch/github-revamp.git [your-username]
-cd [your-username]
-```
-
-### 3️⃣ Change Remote URL
-
-```bash
-git remote remove origin
-git remote add origin https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME].git
-```
-
-### 4️⃣ Customize Your Profile README
-
-Rename the template file:
-```bash
-# On Windows (cmd)
-move PROFILE_TEMPLATE.md README.md
-
-# On Windows (PowerShell) / macOS / Linux
-mv PROFILE_TEMPLATE.md README.md
-```
-
-Open `README.md` and replace all placeholders:
-- `[YOUR_NAME]` → Your name
-- `[YOUR_USERNAME]` → Your GitHub username
-- `[YOUR_EMAIL]` → Your email
-- `[YOUR_TAGLINE_X]` → Your taglines
-- And more...
-
-### 5️⃣ Push to GitHub
-
-```bash
-git add .
-git commit -m "Initial profile setup"
-git push -u origin main
-```
-
-### 6️⃣ Enable GitHub Actions
-
-1. Go to your repository settings
-2. Settings → Actions → General
-3. Enable "Read and write permissions"
-4. Save
-
-**Done!** Visit `github.com/[your-username]` to see your profile 🎉
+| 🎟️ **BlockTix** | [🏥] **Healthcare-Clinic-Analytics-Dashboard** |
+|---|---|
+| **BlockTix(https://github.com/Ahmad-Arslan-10/BlockTix)**<br/>Blockchain-based event ticketing platform with secure ticket issuance, QR-based verification, smart contracts, dynamic pricing, recommendation system and chatbot support.<br/><br/>![Badge1](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Badge2](https://img.shields.io/badge/Tech2-color?style=flat-square&logo=tech2&logoColor=white) | **[Healthcare Analytics Dashboard](https://github.com/Ahmad-Arslan-10/Healthcare-Clinic-Analytics-Dashboard)**<br/>Power BI dashboard visualizing patient visits, diagnoses, procedures and resource planning insights.<br/><br/>![Badge3](https://img.shields.io/badge/Tech3-color?style=flat-square&logo=tech3&logoColor=white) ![Badge4](https://img.shields.io/badge/Tech4-color?style=flat-square&logo=tech4&logoColor=white) |
 
 ---
 
-## 📚 Full Documentation
+## MORE PROJECTS
 
-For detailed setup instructions, customization options, and troubleshooting, see:
+| 🥩 **Steakaway(https://github.com/Ahmad-Arslan-10/Steakaway)** | 🎨 **AI Image Generator(https://github.com/Ahmad-Arslan-10/AI-Image-Generator)** | 🧪 **ChemicalWarehouseManagementSystem(https://github.com/Ahmad-Arslan-10/ChemicalWarehouseManagementSystem)** |
+|---|---|---|
+| Mobile-based food ordering application with authentication and backend services powered by Supabase and a responsive interface for a smooth ordering experience. | Generates images from text prompts using Hugging Face APIs with an interactive web interface. | SQL-based warehouse system featuring constraints, triggers, stored procedures and analytical reports. |
+| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
 
-👉 **[SETUP_GUIDE.md](SETUP_GUIDE.md)**
-
----
-
-## 🎨 What's Included?
-
-### Sections in the Template:
-
-1. **Animated Header** - Dynamic typing effect with your taglines
-2. **About Me** - Introduction and interests
-3. **Latest Projects** - Showcase your top 2 projects with tech badges
-4. **More Projects** - Grid layout for up to 9 projects
-5. **Highlights** - Key achievements or focus areas
-6. **GitHub Stats** - Auto-generated stats, languages, and streak
-7. **Contribution Snake** - Animated contribution graph
-8. **Tech Stack** - Categorized technology badges
-9. **Connect With Me** - Social media links
-10. **Profile Views Counter** - Track your profile visitors
-
-### Files Included:
-
-```
-github-revamp/
-├── README.md                          # About this template (you're reading it!)
-├── PROFILE_TEMPLATE.md                # Your profile README template (rename to README.md)
-├── SETUP_GUIDE.md                     # Detailed setup instructions
-└── .github/
-    └── workflows/
-        └── snake.yml                  # Contribution snake animation
-```
+| 🛒 **Buyzaar(https://github.com/Ahmad-Arslan-10/Buyzaar)** | 📦 **InventoryManagementSystem(https://github.com/Ahmad-Arslan-10/InventoryManagementSystem)** | 🏏 **PSL Match Predictor(https://github.com/Ahmad-Arslan-10/PSL-Match-Winner-Predictor)** |
+|---|---|---|
+| Full-stack e-commerce platform with product browsing, cart management, authentication and responsive UI. | JavaFX desktop application utilizing LinkedList, Queue, Stack and file handling for stock management. | Machine learning model built using 307+ PSL matches with 19 engineered features including team form, venue impact and head-to-head statistics. |
+| ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) | ![Tech](https://img.shields.io/badge/Tech-color?style=flat-square&logo=tech&logoColor=white) |
 
 ---
 
-## 🎯 Customization Tips
+## HIGHLIGHTS
 
-### Change Accent Color
-
-Replace `D85A30` (orange) with your preferred color:
-- Blue: `3B82F6`
-- Green: `10B981`
-- Purple: `8B5CF6`
-- Red: `EF4444`
-
-### Add More Tech Badges
-
-Visit [shields.io](https://shields.io/) and [simpleicons.org](https://simpleicons.org/)
-
-Format:
-```markdown
-![Name](https://img.shields.io/badge/Name-HexColor?style=flat-square&logo=logoname&logoColor=white)
-```
-
-### Change Stats Theme
-
-Available themes: `tokyonight`, `dark`, `radical`, `gruvbox`, `dracula`, `monokai`, `vue`, `onedark`, `cobalt`, `nightowl`
-
-Replace `theme=tokyonight` in the stats URLs.
+| 🎓 Education | 📜 Certifications| 
+|---|---|---|---|
+| BS Computer Science student at COMSATS University (CGPA 3.46/4.00) |
+- Supervised Machine Learning: Regression and Classification
+- Python for Data Science, AI & Development
+- Databases and SQL for Data Science with Python
+- Harnessing the Power of Data with Power BI
+- AWS Cloud Practitioner Essentials |
 
 ---
 
-## 🤝 Contributing
+## GITHUB STATS
 
-Contributions are welcome! If you have ideas for improvements:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Arslan-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&icon_color=D85A30&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Arslan-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D85A30&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ahmad-Arslan-10&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 💡 Inspiration
+## CONTRIBUTION SNAKE
 
-This template was inspired by the need for an easy, customizable GitHub profile README that anyone can use without complex setup or dependencies.
-
----
-
-## 🙏 Acknowledgments
-
-- [GitHub README Stats](https://github.com/anuraghazra/github-readme-stats) by anuraghazra
-- [Contribution Snake](https://github.com/Platane/snk) by Platane
-- [Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) by DenverCoder1
-- [Shields.io](https://shields.io/) for badges
-- [Simple Icons](https://simpleicons.org/) for logo icons
+![github contribution grid snake animation](https://github.com/Ahmad-Arslan-10/Ahmad-Arslan-10/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## ⭐ Show Your Support
+## TECH STACK
 
-If this template helped you create an awesome GitHub profile, please give it a star! ⭐
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+**Databases & Backend Services**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SupaBase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000?style=flat-square&logo=intellijidea&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-## 📫 Contact
+## CONNECT WITH ME
 
-**Gul e Zara** - [@gulglitch](https://github.com/gulglitch)
-
-Project Link: [https://github.com/gulglitch/github-revamp](https://github.com/gulglitch/github-revamp)
+<p align="center">
+  <a href="https://github.com/Ahmad-Arslan-10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:arslanimtiaz849@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-arslan-2562a4368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
-**Made with ❤️ for the developer community**
-
-*Happy profiling! 🚀*
