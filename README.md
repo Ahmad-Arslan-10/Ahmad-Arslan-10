@@ -43,7 +43,7 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Ful
 
 | 🎓 Education | 📜 Certifications |
 |---|---|
-| BS Computer Science student at COMSATS University (CGPA: 3.46/4.00) | <ul><li>Supervised Machine Learning: Regression and Classification</li><li>Python for Data Science, AI & Development</li><li>Databases and SQL for Data Science with Python</li><li>Harnessing the Power of Data with Power BI</li><li>AWS Cloud Practitioner Essentials</li></ul> |
+| BS Computer Science student at COMSATS University (CGPA: 3.45/4.00) | <ul><li>Supervised Machine Learning: Regression and Classification</li><li>Python for Data Science, AI & Development</li><li>Databases and SQL for Data Science with Python</li><li>Harnessing the Power of Data with Power BI</li><li>AWS Cloud Practitioner Essentials</li></ul> |
 
 ---
 
