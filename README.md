@@ -17,8 +17,8 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Ful
 
 ---
 
-💼 EXPERIENCE
-Data Engineer | Infinytics.ai
+## 💼 EXPERIENCE
+##  Data Engineer | Infinytics.ai
 
 April 2026 – Present
 
