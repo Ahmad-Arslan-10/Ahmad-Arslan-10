@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Student+%7C+COMSATS+University;Full-Stack+Developer+%26+Data+Analytics+Enthusiast;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Computer+Science+Student+%7C+COMSATS+University;Full-Stack+Developer+%26+Data+Analytics+Enthusiast;Building+Scalable+Web+Solutions;Data+Engineer" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
