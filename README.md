@@ -17,6 +17,28 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Ful
 
 ---
 
+💼 EXPERIENCE
+Data Engineer | Infinytics.ai
+
+April 2026 – Present
+
+- Design and maintain AWS-based batch data pipelines following a Medallion (Bronze-Silver-Gold) architecture, moving operational data from PostgreSQL through to analytics-ready storage, building on and extending the pipeline established during my internship.
+- Maintain and optimize the AWS Glue Data Catalog, including schemas, partitions, and metadata to support efficient data discovery and querying.
+- Monitor and troubleshoot production data workflows, identifying pipeline and data-quality issues and implementing fixes to improve reliability of recurring data processing.
+- Collaborate with the engineering team using Git-based version control and CI/CD pipelines to test and deploy pipeline changes to production.
+Data Engineer — Intern | Infinytics.ai
+
+July 2025 – August 2025
+
+- Developed an automated AWS batch data pipeline to ingest high-volume operational data from PostgreSQL into Amazon S3 using AWS Database Migration Service (DMS), establishing a scalable Bronze data layer.
+- Built Python-based ETL workflows using AWS Lambda and AWS Glue to validate, clean, transform, and aggregate incoming records into structured Silver-layer datasets for downstream analytics.
+- Designed batch processing workflows capable of handling thousands of records per day, with an architecture designed to scale as data volumes increased.
+- Orchestrated the complete ingestion and transformation workflow using AWS Step Functions, automating multi-stage processing and reducing dependency on manual data preparation.
+- Structured processed data into consistent, analytics-ready datasets used for downstream reporting and client-facing analysis, helping reduce manual data preparation and provide more reliable information for business decision-making.
+- Used Git for version control and worked within a CI/CD pipeline to test and deploy pipeline code changes to production environments.
+
+---
+
 ## ⭐ LATEST PROJECTS
 
 | 🎟️ **BlockTix** | 🏥 **Healthcare-Clinic-Analytics-Dashboard** |
