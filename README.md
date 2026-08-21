@@ -18,6 +18,7 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Ful
 ---
 
 ## 💼 EXPERIENCE
+
 ##  Data Engineer | Infinytics.ai
 
 April 2026 – Present
@@ -27,6 +28,8 @@ April 2026 – Present
 - Monitor and troubleshoot production data workflows, identifying pipeline and data-quality issues and implementing fixes to improve reliability of recurring data processing.
 - Collaborate with the engineering team using Git-based version control and CI/CD pipelines to test and deploy pipeline changes to production.
 Data Engineer — Intern | Infinytics.ai
+
+##  Data Engineer Intern | Infinytics.ai
 
 July 2025 – August 2025
 
