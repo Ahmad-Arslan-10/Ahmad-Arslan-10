@@ -142,7 +142,7 @@ July 2025 – August 2025
   <a href="https://github.com/Ahmad-Arslan-10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-arslan-2562a4368/">
+  <a href="https://www.linkedin.com/in/ahmad-arslan-2562a4368/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
