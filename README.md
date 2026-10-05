@@ -19,9 +19,13 @@ I'm a passionate developer with diverse interests spanning Machine Learning, Ful
 
 ## 💼 EXPERIENCE
 
+##  Data Engineer Intern | Indus Technologies
+
+October 2026 - Present
+
 ##  Data Engineer | Infinytics.ai
 
-April 2026 – Present
+June 2026 – September 2026
 
 - Design and maintain AWS-based batch data pipelines following a Medallion (Bronze-Silver-Gold) architecture, moving operational data from PostgreSQL through to analytics-ready storage, building on and extending the pipeline established during my internship.
 - Maintain and optimize the AWS Glue Data Catalog, including schemas, partitions, and metadata to support efficient data discovery and querying.
